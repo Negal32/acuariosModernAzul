@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>465368529686-ekqf1bpg5bfbp4br12ur6rrp20p4gphh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.465368529686-ekqf1bpg5bfbp4br12ur6rrp20p4gphh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>465368529686-aaov3b2f2haj28sk450qgqoc3aug5fvd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpYTBAH9gcun-iywj6u_hoR9L48HaI2g0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>465368529686</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.acuariosmodernazul</string>
+	<key>PROJECT_ID</key>
+	<string>acuarios-modernazul-fee26</string>
+	<key>STORAGE_BUCKET</key>
+	<string>acuarios-modernazul-fee26.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:465368529686:ios:070e4d2f444fb5087cee37</string>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "465368529686",
+    "project_id": "acuarios-modernazul-fee26",
+    "storage_bucket": "acuarios-modernazul-fee26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465368529686:android:1207c2266b5cf3f47cee37",
+        "android_client_info": {
+          "package_name": "com.mycompany.acuariosmodernazul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465368529686-aaov3b2f2haj28sk450qgqoc3aug5fvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.acuariosmodernazul",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "465368529686-kelqsclng5cp7nen474enpkpl46qasiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN5q2DF5y2Jxu4cFpJxGuznyI8qPddgD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465368529686-kelqsclng5cp7nen474enpkpl46qasiq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465368529686-ekqf1bpg5bfbp4br12ur6rrp20p4gphh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.acuariosmodernazul"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
